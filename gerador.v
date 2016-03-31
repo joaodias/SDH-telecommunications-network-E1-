@@ -1,0 +1,133 @@
+module gerador (out0, out1, out2, out3, out4, out5, out6, out7, out8, out9, out10, out11, out12, out13, out14, out15, out16, out17, out18, out19, out20, out21, out22, out23, out24, out25,  out26, out27, out28, out29);
+
+output wire [7:0] out0;
+output wire [7:0] out1;
+output wire [7:0] out2;
+output wire [7:0] out3;
+output wire [7:0] out4;
+output wire [7:0] out5;
+output wire [7:0] out6;
+output wire [7:0] out7;
+output wire [7:0] out8;
+output wire [7:0] out9;
+output wire [7:0] out10;
+output wire [7:0] out11;
+output wire [7:0] out12;
+output wire [7:0] out13;
+output wire [7:0] out14;
+output wire [7:0] out15;
+output wire [7:0] out16;
+output wire [7:0] out17;
+output wire [7:0] out18;
+output wire [7:0] out19;
+output wire [7:0] out20;
+output wire [7:0] out21;
+output wire [7:0] out22;
+output wire [7:0] out23;
+output wire [7:0] out24;
+output wire [7:0] out25;
+output wire [7:0] out26;
+output wire [7:0] out27;
+output wire [7:0] out28;
+output wire [7:0] out29;
+
+reg [7:0] teste0;
+reg [7:0] teste1;
+reg [7:0] teste2;
+reg [7:0] teste3;
+reg [7:0] teste4;
+reg [7:0] teste5;
+reg [7:0] teste6;
+reg [7:0] teste7;
+reg [7:0] teste8;
+reg [7:0] teste9;
+reg [7:0] teste10;
+reg [7:0] teste11;
+reg [7:0] teste12;
+reg [7:0] teste13;
+reg [7:0] teste14;
+reg [7:0] teste15;
+reg [7:0] teste16;
+reg [7:0] teste17;
+reg [7:0] teste18;
+reg [7:0] teste19;
+reg [7:0] teste20;
+reg [7:0] teste21;
+reg [7:0] teste22;
+reg [7:0] teste23;
+reg [7:0] teste24;
+reg [7:0] teste25;
+reg [7:0] teste26;
+reg [7:0] teste27;
+reg [7:0] teste28;
+reg [7:0] teste29;
+
+
+initial begin
+
+    teste0 = 8'he1;
+    teste1 = 8'he2;
+    teste2 = 8'he3;
+    teste3 = 8'he4;
+    teste4 = 8'he5;
+    teste5 = 8'he6;
+    teste6 = 8'he7;
+    teste7 = 8'he8;
+    teste8 = 8'he9;
+    teste9 = 8'hea;
+    teste10 = 8'heb;
+    teste11 = 8'hec;
+    teste12 = 8'hed;
+    teste13 = 8'hee;
+    teste14 = 8'hef;
+    teste15 = 8'hf1;
+    teste16 = 8'hf2;
+    teste17 = 8'hf3;
+    teste18 = 8'hf4;
+    teste19 = 8'hf5;
+    teste20 = 8'hf6;
+    teste21 = 8'hf7;
+    teste22 = 8'hf8;
+    teste23 = 8'hf9;
+    teste24 = 8'hfa;
+    teste25 = 8'hfb;
+    teste26 = 8'hfc;
+    teste27 = 8'hfd;
+    teste28 = 8'hfe;
+    teste29 = 8'hff;
+
+end
+
+assign out0 = teste0;
+assign out1 = teste1;
+assign out2 = teste2;
+assign out3 = teste3;
+assign out4 = teste4;
+assign out5 = teste5;
+assign out6 = teste6;
+assign out7 = teste7;
+assign out8 = teste8;
+assign out9 = teste9;
+assign out10 = teste10;
+assign out11 = teste11;
+assign out12 = teste12;
+assign out13 = teste13;
+assign out14 = teste14;
+assign out15 = teste15;
+assign out16 = teste16;
+assign out17 = teste17;
+assign out18 = teste18;
+assign out19 = teste19;
+assign out20 = teste20;
+assign out21 = teste21;
+assign out22 = teste22;
+assign out23 = teste23;
+assign out24 = teste24;
+assign out25 = teste25;
+assign out26 = teste26;
+assign out27 = teste27;
+assign out28 = teste28;
+assign out29 = teste29;
+
+
+endmodule
